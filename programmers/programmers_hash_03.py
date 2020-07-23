@@ -9,4 +9,5 @@ def solution(num):
         elif num%2==1:
             num=num*3+1
             cnt=cnt+1
+            print('jj')
     return cnt
